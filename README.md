@@ -1,4 +1,4 @@
-# testing-git-revert-commits
+# Reverting-Git-Commits
 
 # Resets index to former commit; replace '56e05fced' with your commit code
 git reset 56e05fced 
